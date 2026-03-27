@@ -1,0 +1,5 @@
+{
+  "name": "VoiceConvert",
+  "description": "A cross-platform voice-to-text message converter that transforms your speech into polished, professional, or translated messages using AI.",
+  "requestFramePermissions": ["microphone"]
+}
